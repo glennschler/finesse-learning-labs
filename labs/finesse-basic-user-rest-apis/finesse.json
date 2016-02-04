@@ -1,0 +1,24 @@
+{
+  "labId": "finesse-basic-user-rest-apis",
+  "title": "Finesse – Basic User REST APIs",
+  "slug": "Learn the basic Finesse User REST APIs",
+  "time": 15,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "REST"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}
