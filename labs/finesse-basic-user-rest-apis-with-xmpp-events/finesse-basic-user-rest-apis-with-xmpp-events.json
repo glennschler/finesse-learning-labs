@@ -1,0 +1,26 @@
+{
+  "labId": "finesse-basic-user-rest-apis-with-xmpp-events-with-xmpp-events",
+  "title": "Finesse – Basic User REST APIs with XMPP Events",
+  "slug": "Learn the basic Finesse User REST APIs with XMPP Events",
+  "time": 20,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "REST"},
+    {"title": "XMPP"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"}
+  ],
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}
