@@ -3,7 +3,7 @@
   "title": "Finesse – Basic User REST APIs with XMPP Events",
   "slug": "Learn the basic Finesse User REST APIs with XMPP Events",
   "time": 20,
-  "byod": true,
+  "byod": false,
   "tags": [
     {"title": "Collaboration"},
     {"title": "Finesse"},
